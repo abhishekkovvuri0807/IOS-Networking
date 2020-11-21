@@ -1,7 +1,14 @@
 {
  "tickets": [
    {
-     "name": "Balcony Level Ticket"
+     "name": "Balcony Level Ticket",
+     "totalNumberOfTickets":12,
+     "price":500
+   },
+   {
+     "name": "Balcony Level Ticket",
+     "totalNumberOfTickets":12,
+     "price":500
    }
  ]
 }
