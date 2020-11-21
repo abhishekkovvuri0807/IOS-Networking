@@ -6,9 +6,19 @@
      "price":500
    },
    {
-     "name": "Balcony Level Ticket",
-     "totalNumberOfTickets":12,
-     "price":500
+     "name": "Upper Level Ticket",
+     "totalNumberOfTickets":25,
+     "price":5000
+   },
+   {
+     "name": "Lower Level Ticket",
+     "totalNumberOfTickets":23,
+     "price":200
+   },
+   {
+     "name": "Middle Level Ticket",
+     "totalNumberOfTickets":50,
+     "price":1000
    }
  ]
 }
